@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+    char a[10];
+    scanf("%s",a);
+    printf("%s.",a);
+    return 0;
+}
