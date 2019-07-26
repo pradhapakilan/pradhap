@@ -3,7 +3,7 @@
  
 int main()
 {
-   char arr[100];
+   char str[100];
    gets(str);
    strrev(str);
    printf("%s",str);
